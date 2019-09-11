@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+welcome to my **website**. Hope you *enjoy* my **videos** and **blogs** about me and my **life**`! 
